@@ -20,8 +20,6 @@ index_htm_files/260@2x.jpg
 index_htm_files/256.png
 index_htm_files/254.jpg
 index_htm_files/254@2x.jpg
-index_htm_files/111.png
-index_htm_files/111@2x.png
 index_htm_files/339.jpg
 index_htm_files/339@2x.jpg
 index_htm_files/93.jpg
@@ -45,3 +43,5 @@ index_htm_files/286@2x.jpg
 index_htm_files/275.jpg
 index_htm_files/275@2x.jpg
 index_htm_files/304.jpg
+index_htm_files/341.png
+index_htm_files/341@2x.png
